@@ -1,0 +1,6 @@
+
+
+
+Agenda:
+	1. String Functions
+	2. String programs

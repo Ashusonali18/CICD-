@@ -1,0 +1,86 @@
+
+Agenda:
+	1. Things need to be an automation test engineer
+		a. Core Java
+		b. Selenium Scripting
+	1. Toscas
+	2. Selenium
+		a. Java b.C c.ruby
+	3. QTP
+	4. Cypress 
+	5. Protractor
+	....
+	2. Course components
+
+		1. Core Java
+			a. Fetatuers of Java			b. Variables
+			c Datatypes
+				1. Self Learn
+				2. Assignments
+			d. Conditions
+			Operators
+			Loops
+			String
+			Oops
+			Collections
+			Selenium
+			Componetns
+			WebDriver Methods
+			Webelement Methods	
+			Action Classes
+			WebWElement Dealing
+			TestNg (KeyWord)
+			Excel Reading
+			DataDrivenFramework
+			Hybrid Framework
+			POM
+			Cucumber (BDD)
+			GIT
+			Maven(Project)
+	3. Plan  
+	4. Steps to become an automation engineer
+
+
+1. Anayze the Requirment
+2. Design TCs
+3. Execute the test cases
+4. Prioritize the testcases (Automation way)
+5. Automate regression test cases
+
+
+1. Pure Automation
+
+
+Merits and Demerits of selenium
+	1. OpenSource
+
+
+
+	Java programing language
+
+
+Speaking  telugu in telugu
+writing
+Sign
+body language
+
+
+
+
+	1. Build mobile based application
+	2. Window based
+	3. WebBased application
+	4. Tools
+	5. Servers
+JDK
+1. Simple 
+2. Robust 
+3. Independent  
+	System.out.println(hello world);  //hello world 
+4. Portable 
+5. Secure  
+6. MultiTHreaded
+7. Parallel executions
+
+
+

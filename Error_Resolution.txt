@@ -1,0 +1,15 @@
+Frequent erros in maven projects
+
+Select group id in following way:
+
+1)If http://live.techpanda.org/index.php/ this your url 
+set groupid like org.techpanda.live(in reverse)
+
+2)if pom.xml giving an error then
+i)Right click on project
+ii)select maven
+iii)select update project
+iii) select force update of snapshot
+iv)click on ok
+
+

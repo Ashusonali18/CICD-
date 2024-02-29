@@ -1,0 +1,41 @@
+Assignment
+
+1. Print students marks pass/fail for each and every subject based on marks.
+		Note: create 6 methods for each and every subject.
+		      create 1 method should deal with all subject
+
+	2. after addition of all marks if student get less than 210 than student failed.
+	3. Take 1 and 2 questions append with else block
+	
+
+Assignment
+	1. Print Student result if he got less than 35 in any of his subject.
+
+Note: Create class level variables in anothe class
+
+Assignment:
+
+	1. Print all the star patterns in the link proviced
+	2. Write 300 programs which should include 
+		a. method with parameter
+		b. method with returntype
+		c. method with static and non static
+		d. call variables from same and different class
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

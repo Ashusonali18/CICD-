@@ -1,0 +1,99 @@
+
+
+
+
+
+Agenda:
+	1. Recap
+	2. Object cross mapping
+
+class A
+{
+int a=100;
+int xyzz=1000;
+public void prepareChicken()
+{
+
+
+
+
+
+}
+
+public void hello()
+{
+
+syso("this is class A");
+}
+
+
+p s v m()
+{
+
+A obj=new A();
+
+syso(obj.a);
+
+onj.hello();
+
+}
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+class B
+{
+int x=600;
+
+
+
+p s v m()
+{
+A obj=new A();
+
+
+
+
+
+}
+
+
+}
+3. Operators
+	a. Arethematic
+		+ - / % *
+10+10=20  10-30=-20  30/10=3  30%3=0 10*10=100
+	b. Relational/comparator
+	c. Logical
+	d. Assignment operator
+	e. Incremental/decremental operator
+	f. bitwise
+	g. left shifter
+	h. right shifter
+	i. terenary
+
+
+Assignment:
+	1. Perform math operations  in one class 
+	2. call the methods in different classes
+
+Note:- should include static methods non static methods
+	Create instance and global variables and use in the methods.
+
+
+
+
+
+
+
+

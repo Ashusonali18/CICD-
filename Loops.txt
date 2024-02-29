@@ -1,0 +1,124 @@
+
+
+
+
+Agenda
+
+	a. Loops
+		1. Simple for loop	
+		2. For each loop
+		3. while
+		4. do while loop
+		5. Nested loop
+
+
+1. Time
+2. Pressure on kid
+3. repatetion
+
+
+syso(1);
+syso(2);
+syso(2);
+syso(3);
+
+
+!-----------------Simple for loop-----------!
+ 
+
+for(intilize;condition;increment/decrement)
+{
+code need to get executed;
+
+}
+
+for(int i=1;i>=-5;i--)
+{
+
+play songs number (5);
+
+}
+
+
+1. Find out odd and even numbers between 1-100
+
+for ini con inc
+condition
+comparator operator
+
+for(int i=1;i<=100;i++)
+{
+
+if(i%2==0)
+{
+syso(i+ " is a even number");
+}
+else
+{
+syso(i+ " is a odd number");
+
+}
+
+
+
+}
+
+
+loop(5)   // 6
+{
+songs
+
+}
+
+
+2. Find out if number is prime number
+
+7
+
+if(7%2==0)
+{
+not a prime
+}
+7%3==0;
+7%4==0;
+7%5==0;
+7%6==0;
+
+
+
+
+for(int i=2;i<7;i++)
+{
+if(7%i==0)
+{
+syso(not a prime);
+}
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

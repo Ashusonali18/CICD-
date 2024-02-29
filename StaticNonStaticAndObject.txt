@@ -1,0 +1,55 @@
+
+
+
+Agenda:
+
+	1. Recap
+	2. Static non static
+		a. static variables and methods can travel accross the 		   class with out any restrictions (can go to static 		   and non static methods)
+		b. non static methods and variables can travel only to 		   non static methods without any restrictions. If 		   these variables and methods need to go to static 		   methods than object need to be created with object 		   reference we need to call the variables and methods.
+	3. Object
+	4. Employee class
+
+public class abc
+{
+
+
+}
+
+
+
+Object 
+What do you mean by object
+
+class ABC
+{
+int aa=100
+static int xyz=5000;
+p s v m()
+{
+ABC a=new ABC();
+syso(a.xyz)
+syso(a.aa);
+}
+
+
+}
+
+Assignment
+	1. Create a employee class.
+		a. create relevent varaibles
+		b. call with object for employees
+		c. make use of display methods.
+
+
+
+
+
+
+
+
+
+
+
+
+

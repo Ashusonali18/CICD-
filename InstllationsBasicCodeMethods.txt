@@ -1,0 +1,72 @@
+
+
+
+Agenda
+	1. Instllations
+		1. JDK  (Go to google and search for JDK download --> Oracle official website)
+		2. Eclipse or depending on you (Search with Eclipse in google and go with eclipse offical site)
+	2. Basic Code or first code 
+		Create a java project
+			create a class
+				write a code
+Create a java project --> Create a package  --> create a class (now write a program)
+		NAming convention
+			project name should start with small letter
+				com.flipkart
+				com.amazon
+			package name
+				stringsLearn
+			Class name
+				Abc
+
+	3. Main Method
+	4. Methods
+System.out.println("This is ABC5 class");\
+System.out.println("This is ABC4 class");
+System.out.println("This is ABC33 class");
+System.out.println("This is ABC3 class");
+System.out.println("This is ABC2 class");
+System.out.println("This is ABC1 class");
+
+
+
+	5. Variable
+
+	JDK need to be installed 
+		click on windows
+			1. type cmd and click on enter
+			2. Command promt will be displayed
+			3. Enter the command java -version
+
+	
+	Where do i need to write the code?
+		1. Write in note pad and execute
+		2. Write in wordpad
+	Tools like
+		1. Eclipse as our editor
+			eclipse as our editor
+		2. NetBeans
+		3. IntellJ
+
+	Assignment
+		
+		1. Create a project
+		2. Create a package -> class
+		3. Create a main method manually
+		4. Write 20 lines manually to print somethinf(depends on you)
+		5. Creat a method and call the method to main methois andexecute
+	Note: Create 5 classes 
+			 basic program in one class
+	      		 20 lines code in one class
+			 call method in one class
+
+
+
+
+
+
+
+
+
+
+	

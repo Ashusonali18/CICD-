@@ -1,0 +1,202 @@
+
+
+Agenda
+	1. Polymorphysim (method multi forms)
+		a. Overloading   (Static poly) or  Compile time
+		b. Overriding	 (Dynamic poly) or runtime poly
+	2. Abstraction
+		a. Interface
+		b. Abstract class
+		c. Abstract method
+
+
+Class Ab
+{
+
+public void hello()
+{
+syso(100)
+}
+
+
+public void hello(int a)
+{
+syso(500)
+}
+
+}
+
+!---------------Overriding----------!
+
+1. it Works only for non static methods.
+2. Overriding means having same method name same parameters in the child class with desired implementation
+
+
+
+!---------abstractions----------------!
+
+
+		a. Interface
+		b. Abstract class
+			1. Abstract class will accept normal methods and abstrac methods
+			2. We cannot create object for Abstract class
+			3. Abstract class can be inherited
+		c. Abstract method
+public abstract void hi();
+
+
+public void hello()
+{
+implementation
+}
+
+class ABC
+{
+methods and variables
+
+}
+
+abstrac class ABCD
+{
+methods and variables
+
+}
+
+Abstract class Car 
+	public abstract wheels4();
+	public abstract seatingcapacity5();
+	public abstract windows4();
+	public abstract doors4();
+	public abstract engine();
+	public abstract price();
+
+public void SeatBelt()
+{
+	syso("Should be standard");
+}
+
+
+class Maruthi extends Car
+{
+public void 4weels()
+{
+delicate wheels
+}
+	public  seatingcapacity5()
+{
+syso(normal spacious);
+}
+	public windows4()
+{
+syso(delocate);
+}
+	public abstract doors4()
+{
+syso(delocate);
+}
+	public abstract engine()
+{
+syso(delocate);
+}
+	public abstract price()
+{
+syso(less);
+}
+
+
+
+
+
+}
+
+class Ford extends Car
+{
+public void 4weels()
+{
+medium wheels
+}
+	public  seatingcapacity5()
+{
+sysomore spacious);
+}
+	public windows4()
+{
+syso(delocate);
+}
+	public abstract doors4()
+{
+syso(strong);
+}
+	public abstract engine()
+{
+syso(delocate);
+}
+	public abstract price()
+{
+syso(medium);
+}
+
+}
+class TATA extends Car
+{
+
+}
+class Benz extends Car
+{
+public void 4weels()
+{
+delicate wheels
+}
+	public  seatingcapacity5()
+{
+syso(normal spacious);
+}
+	public windows4()
+{
+syso(delocate);
+}
+	public abstract doors4()
+{
+syso(delocate);
+}
+	public abstract engine()
+{
+syso(delocate);
+}
+	public abstract price()
+{
+syso(less);
+}
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

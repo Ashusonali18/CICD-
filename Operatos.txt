@@ -1,0 +1,89 @@
+
+
+
+Agenda:
+
+	1. Operators
+		1. Math
+			+ - / % *
+		2. Comparator or relational   boolean bb= 10<100;
+			< > <= >= 10==10 10!=100
+			10<100 =true
+			10>100= false
+			10<=100= true
+			10>=100= false
+			10==100= false
+			10!=100 = true
+= ==
+
+
+a=1010;
+b=10;
+
+b=a;
+
+a==b;
+
+a==100;
+
+int a=10;		
+
+		a. b is non static
+		b. create object
+		c. 19 object
+		d. process to create obj
+		e. class name objname=new constructor();
+
+ 
+		3. Logical
+			and or !   true & false   true | false !
+		lead    proposed for long week end plan no
+
+			teammem1 and teammem2 and teammem3	
+			yes	 and  yes   and  no			
+		lead proposed for team lunch yes
+
+			teammem1 and teammem2 and teammem3	
+			yes	 or yes   or  no			
+	
+yes no   no yes
+
+		true and true  true
+		true and false false
+		true and true and false false
+		false and false and false false
+		true and true and true true
+
+	
+	or operator
+		true or true true
+		true or false true
+		false or false or false or false false
+		
+Not 
+		true ! false
+		false ! true
+
+
+A	B	AorB	AandB	!A	!B
+TRUE	TRUE	TRUE	TRUE	FALSE	FALSE
+TRUE	FALSE	TRUE	FALSE	FALSE	TRUE
+FALSE	TRUE	TRUE	FALSE	TRUE	FALSE
+FALSE	FALSE	FALSE	FALSE	TRUE	TRUE
+
+& | !
+
+int a=50,b=100;
+
+boolean bool=a<b, bool1=a>b;
+	  //true or false --> true	
+boolean b=bool | bool1   --> true
+
+
+
+		4. Incremental/decremental
+		5. Assignment operators
+
+
+
+

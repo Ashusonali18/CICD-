@@ -1,0 +1,71 @@
+
+
+
+Agenda
+
+	1. String Basic programs
+	2. String reverse
+	3. Palandrome
+	4. Character Array program
+	5. Split String program.
+
+
+!----------------String Basic program-------------!
+
+	String str="Hello India";
+	Syso(str);
+	Syso(str+" Telangana");
+	syso("hi  "+ str );
+	sys("\t"+str);
+	syso(str+"\t");
+	syso("hello India "+str+" Learn Java" );
+
+
+!-------------Reverse a String---------!
+String str="Hello India";
+
+H
+e
+l
+l
+o
+
+I
+n
+d
+i
+a
+
+.length();
+charAt();
+
+for(int i=0;i<str.length();i++)
+{
+syso(charAt(i));
+}
+
+
+Assignment
+	1. Reverse a String
+		a. Place desired String in different class
+		b. call the String to main method and write logic in 		   main method
+	2. Reverse a String
+		a. Write all the logic in different class
+		b. Call the different class main metjhod
+
+Note:
+	a. Make use of Scanner class 
+	b. Method with parameter
+	c. Method with return type
+	d. Static and non static
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,90 @@
+
+
+Agenda
+	1. Nested loops
+	2. Exampels in loops	
+	3. Arrays theory
+
+!------------------Nested Loops------!
+=> Nested loop means having loop inside loop
+		a. for loop inside for loop
+		b. while inside do while loop
+		c. all cris cross combinations
+
+
+*
+* * 
+* * *
+* * * *
+* * * * *
+
+sysout.print('*');
+sysout.println();
+sysout.print('*');
+sysout.print('*');
+sysout.println();
+sysout.print('*');
+sysout.print('*');
+sysout.print('*');
+sysout.println();
+sysout.print('*');
+sysout.print('*');
+sysout.print('*');
+sysout.print('*');
+
+
+
+
+
+
+
+for(int i=0;i<100;i++)
+{
+
+for(int j=0;j<100;j++)
+{
+for(int j=0;j<100;j++)
+{
+for(int j=0;j<100;j++)
+{
+for(int j=0;j<100;j++)
+{
+
+}
+}
+}
+}
+for(int j=0;j<100;j++)
+{
+
+}
+for(int j=0;j<100;j++)
+{
+
+}
+
+}
+
+
+
+
+Assignment:
+
+	1. Print all the star patterns in the link proviced
+	2. Write 300 programs which should include 
+		a. method with parameter
+		b. method with returntype
+		c. method with static and non static
+		d. call variables from same and different class
+
+
+
+
+
+
+
+
+
+
+
+	

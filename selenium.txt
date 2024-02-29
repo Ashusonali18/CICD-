@@ -1,0 +1,38 @@
+
+
+
+
+Agenda
+
+	1. Recap  
+	2. Automation testing roles and responsibilities
+		a. Just run the scripts
+		b. Run the scripts and fix if any issues.		
+		c. Design test cases.
+		d. Capable to design a framework (he/she can run the script fix the issues develope the test cases too)
+			How?
+		
+	3. JDK (Java developement kit)
+	4. Backend of JDK
+
+_________________________________________________________________
+
+1. Training   45 days 8 - 9:30
+2. JOIP pattern
+	a. you will get training
+	b. Assistance
+	c. Monitoring
+	d. Mockups
+	e. Interview Assistance
+
+
+
+
+
+
+
+
+
+
+
+

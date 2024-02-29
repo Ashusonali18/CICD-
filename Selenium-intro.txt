@@ -1,0 +1,72 @@
+
+
+
+
+Agenda:
+	1. Selenium intro
+		
+	2. Components of selenium
+		a. IDE
+		b. Selenium RC
+		c. Selenium webDriver
+		d. Selenium Grid
+	3. Selenium Set up
+	4. Open a browser with Selenium
+
+Selenium WebDriver
+
+	WebDriver is an interface
+
+public void close();
+public void get();
+public void getttitle();
+
+		ChromeDriver
+			
+public void close()
+{
+close the driver for chrome
+}
+public void get()
+{
+
+}
+public void getttitle()
+{
+
+}
+		FireFoxDriver
+
+public void close()
+{
+close the driver for FireFox
+}
+public void get()
+{
+
+}
+public void getttitle()
+{
+
+}
+		EdgeDriver
+		InternetExplorerDriver
+		NDriver
+
+
+
+Assignments
+	1. Do a proper selenium setup
+	2. Open all browsers
+	3. Close the browsers
+note: make use of methods
+
+
+
+
+Right click on project -> build path -> configure build path -> java build path -> click on class path -> select add external jars -> select libs from downloads
+
+
+
+
+	

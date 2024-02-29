@@ -1,0 +1,71 @@
+
+
+
+
+Agenda
+	1. Recap 
+	2. Variables---> is a container which can store the data 
+		data stored in it
+		1. Global variable
+			a. declared at class level with static 			keyword.
+			b. can be accessed entire class freely.
+		2. Instance Variable
+			a. declared at class level without static 			keyword.
+			b. can be accesses entire class based on 			instance
+		3. Local variable
+			a. declared inside method.
+			b. cannot cross the method. Will stay inside 			the method only 
+	3. dataTypes
+		1. Premitive datatype
+			a. byte     numbers from the range -128 to 128
+					byte abc=30;
+					1 byte of memory	
+			b. short
+				which is also dealing with numbers  -32000 to +32000                          2 bytes 
+					short s=3000;	
+			c. int
+				is a datatype dealing with numbers from range ~-2cr to ~+2cr              4 bytes
+					int aba=10000;
+			d. long  8 bytes
+				is also dealing with numbers from range with big numbers                  long l=9999999999999l;
+			-9223372036854775808 to 9223372036854775807
+
+			e. float  	1.40239846e-45f to 3.40282347e+38f                   float f=33.23f; 
+			f. double       double d=21341243214.324234;
+			g. char  char ch='a';
+				 ch='D';
+			h. boolean  boolean bool=true/false;
+		2. non-premitive datatype
+			a. class
+			b. object
+			c. Arrays
+			d. String	
+			e. StringBuffer and StringBuiders
+
+
+
+
+		rice bag=25kgs;
+		bag=20kgs;
+		bag=50kgs;
+		bag=0kgs;
+
+
+
+
+
+
+	4. Static non static (we also need to understand object mechanisim)
+
+
+	Assignment
+		1. Create local variables and print all the variables in console
+		2. Create global variables and print all the variables in different method but not in main method and call in main method.
+		3. Create Global variable and print in main method before that change the values in another method and see the impact.
+
+
+
+
+
+
+	
